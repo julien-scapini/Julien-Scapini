@@ -1,16 +1,15 @@
-## Hi there 👋
+Olá! Eu sou o Julien
 
-<!--
-**julien-scapini/Julien-Scapini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor em formação  
+📍 Santa Catarina, Brasil  
 
-Here are some ideas to get you started:
+Meu primeiro contato com programação começou com curiosidade e rapidamente virou interesse real. Desde então venho estudando tecnologia, programação e desenvolvimento de projetos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Gosto de aprender coisas novas, resolver problemas e transformar ideias em código. Estou sempre buscando evoluir minhas habilidades e trabalhar em projetos que desafiem meu raciocínio e criatividade.
+
+🚀 Atualmente focado em:
+- Desenvolvimento de software
+- Aprender novas tecnologias
+- Criar projetos para meu portfólio
+
+📚 Sempre estudando e evoluindo.
