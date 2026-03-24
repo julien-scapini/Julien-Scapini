@@ -7,9 +7,9 @@ Meu primeiro contato com programação começou com curiosidade e rapidamente vi
 
 Gosto de aprender coisas novas, resolver problemas e transformar ideias em código. Estou sempre buscando evoluir minhas habilidades e trabalhar em projetos que desafiem meu raciocínio e criatividade.
 
-🚀 Atualmente focado em:
+ Atualmente focado em:
 - Desenvolvimento de software
 - Aprender novas tecnologias
 - Criar projetos para meu portfólio
 
-📚 Sempre estudando e evoluindo.
+ Sempre estudando e evoluindo.
